@@ -17,11 +17,8 @@ This repository contains a Python-based tool for downloading videos from Twitter
 - Conda
 - ffmpeg: System dependency for audio extraction.
   - Windows: Download from ffmpeg.org and add to PATH.
+  - Linux: Install with `sudo apt-get install ffmpeg`.
+  - Mac: Install with `brew install ffmpeg` (requires Homebrew).
+ 
+Run `git clone https://github.com/your-username/TwitterVideoTranscriber.git` and then `cd TwitterVideoTranscriber`.
 
-
-
-Linux: Install with sudo apt-get install ffmpeg (Ubuntu/Debian) or equivalent.
-
-
-
-Mac: Install with brew install ffmpeg (requires Homebrew).

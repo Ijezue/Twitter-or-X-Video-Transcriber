@@ -20,5 +20,5 @@ This repository contains a Python-based tool for downloading videos from Twitter
   - Linux: Install with `sudo apt-get install ffmpeg`.
   - Mac: Install with `brew install ffmpeg` (requires Homebrew).
  
-Run `git clone https://github.com/your-username/TwitterVideoTranscriber.git` and then `cd TwitterVideoTranscriber`.
+<pre lang="markdown"> ```bash git clone https://github.com/your-username/TwitterVideoTranscriber.git cd TwitterVideoTranscriber ``` </pre>
 

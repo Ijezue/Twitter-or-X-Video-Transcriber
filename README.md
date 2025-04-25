@@ -24,7 +24,7 @@ This repository contains a Python-based tool for downloading videos from Twitter
 
 - Clone repo
 <pre lang="markdown">git clone
-cd TwitterVideoTranscriber  </pre>
+cd   </pre>
 
 - Install `ffmeg` and verify
   `ffmpeg -version`

@@ -23,13 +23,13 @@ This repository contains a Python-based tool for downloading videos from Twitter
 ### How to run
 
 - Clone repo
-<pre lang="markdown"> git clone https://github.com/your-username/TwitterVideoTranscriber.git 
-  cd TwitterVideoTranscriber  </pre>
+<pre lang="markdown">git clone
+cd TwitterVideoTranscriber  </pre>
 
 - Install `ffmeg` and verify
   `ffmpeg -version`
 - Create conda env and install requirements
-<pre lang="markdown"> conda create -n xtranscribe python=3.10
+<pre lang="markdown">conda create -n xtranscribe python=3.10
 conda activate xtranscribe 
 pip install -r requirements.txt </pre>
 

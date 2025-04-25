@@ -20,6 +20,20 @@ This repository contains a Python-based tool for downloading videos from Twitter
   - Linux: Install with `sudo apt-get install ffmpeg`.
   - Mac: Install with `brew install ffmpeg` (requires Homebrew).
  
-<pre lang="markdown"> ```bash git clone https://github.com/your-username/TwitterVideoTranscriber.git 
-  cd TwitterVideoTranscriber ``` </pre>
+### How to run
+
+- Clone repo
+<pre lang="markdown"> git clone https://github.com/your-username/TwitterVideoTranscriber.git 
+  cd TwitterVideoTranscriber  </pre>
+
+- Install `ffmeg` and verify
+  `ffmpeg -version`
+- Create conda env and install requirements
+<pre lang="markdown"> conda create -n xtranscribe python=3.10
+conda activate xtranscribe 
+pip install -r requirements.txt </pre>
+
+### License
+
+This project is licensed under the MIT License.
 
